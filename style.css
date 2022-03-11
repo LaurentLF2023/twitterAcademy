@@ -1,0 +1,26 @@
+* {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+.container-fluid{
+    background: url('https://wallpapercave.com/wp/wp2088523.jpg');
+    background-size: cover;
+    min-height: 100vh;
+    background-position: right;
+}
+
+.row {
+    min-height: 100vh;
+}
+
+.card{
+    min-height: 90vh;
+}
+
+
